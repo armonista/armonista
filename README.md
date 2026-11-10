@@ -1,4 +1,4 @@
-### Hi there, I'm Aryan Mughal 👋
+### Hi there, I'm Aryan Mughal
 
 -  **Backend Software Engineering & Distributed Systems**
 -  **Core Tech Stack:** Node.js, Express, PostgreSQL, Prisma ORM, Zod, Docker, Redis, and Web3 smart contracts.
