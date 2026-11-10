@@ -1,12 +1,13 @@
-### Hi there, I'm Aryan Mughal 
+### Hi there, I'm Aryan Mughal 👋
 
 -  **Backend Software Engineering & Distributed Systems**
 -  **Core Tech Stack:** Node.js, Express, PostgreSQL, Prisma ORM, Zod, Docker, Redis, and Web3 smart contracts.
--  **Featured Project:** [ChronosGate](https://github.com/armonista/ChronosGate) — A distributed API rate-limiting gateway and webhook delivery engine with sliding-window limits and HMAC-SHA256 payload signing.
+-  **Featured Project:** [ChronosGate](https://github.com/armonista/chronos-gate) — A distributed API rate-limiting gateway and webhook delivery engine with sliding-window limits and HMAC-SHA256 payload signing.
+-  **Competitive Programming:** Practicing daily data structures & algorithms in C++ on LeetCode, synced live to GitHub via LeetHub-Neo.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -22,7 +23,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=armonista&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armonista&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
