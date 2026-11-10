@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there, I'm Aryan Mughal 
+
+-  **Backend Software Engineering & Distributed Systems**
+-  **Core Tech Stack:** Node.js, Express, PostgreSQL, Prisma ORM, Zod, Docker, Redis, and Web3 smart contracts.
+-  **Featured Project:** [ChronosGate](https://github.com/armonist/chronos-gate) — A distributed API rate-limiting gateway and webhook delivery engine with sliding-window limits and HMAC-SHA256 payload signing.
+
+---
 
 <!--
 **armonista/armonista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
