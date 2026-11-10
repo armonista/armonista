@@ -1,8 +1,7 @@
 ### Hi there, I'm Aryan Mughal
 
 -  **Backend Software Engineering & Distributed Systems**
--  **Core Tech Stack:** Node.js, Express, PostgreSQL, Prisma ORM, Zod, Docker, Redis, and Web3 smart contracts.
--  **Featured Project:** [ChronosGate](https://github.com/armonista/chronos-gate) — A distributed API rate-limiting gateway and webhook delivery engine with sliding-window limits and HMAC-SHA256 payload signing.
+-  **Core Tech Stack:** Node.js, Express, PostgreSQL, Prisma ORM, Zod, Docker, Redis, Web3 smart contracts.
 
 ---
 
